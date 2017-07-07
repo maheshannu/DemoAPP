@@ -7,6 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F84987D31F07C175003B362F /* _DS_Store in Resources */ = {isa = PBXBuildFile; fileRef = F84987C01F07C175003B362F /* _DS_Store */; };
+		F84987D41F07C175003B362F /* _DS_Store in Resources */ = {isa = PBXBuildFile; fileRef = F84987C21F07C175003B362F /* _DS_Store */; };
+		F84987D51F07C175003B362F /* EGOCache.m in Sources */ = {isa = PBXBuildFile; fileRef = F84987C41F07C175003B362F /* EGOCache.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		F84987D61F07C175003B362F /* _DS_Store in Resources */ = {isa = PBXBuildFile; fileRef = F84987C61F07C175003B362F /* _DS_Store */; };
+		F84987D71F07C175003B362F /* _DS_Store in Resources */ = {isa = PBXBuildFile; fileRef = F84987C81F07C175003B362F /* _DS_Store */; };
+		F84987D81F07C175003B362F /* _DS_Store in Resources */ = {isa = PBXBuildFile; fileRef = F84987CA1F07C175003B362F /* _DS_Store */; };
+		F84987D91F07C175003B362F /* EGOImageLoadConnection.m in Sources */ = {isa = PBXBuildFile; fileRef = F84987CC1F07C175003B362F /* EGOImageLoadConnection.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		F84987DA1F07C175003B362F /* EGOImageLoader.m in Sources */ = {isa = PBXBuildFile; fileRef = F84987CE1F07C175003B362F /* EGOImageLoader.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		F84987DB1F07C175003B362F /* _DS_Store in Resources */ = {isa = PBXBuildFile; fileRef = F84987D01F07C175003B362F /* _DS_Store */; };
+		F84987DC1F07C175003B362F /* EGOImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = F84987D21F07C175003B362F /* EGOImageView.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		F84987E01F07C629003B362F /* HomeCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84987DE1F07C629003B362F /* HomeCollectionViewCell.swift */; };
+		F84987E11F07C629003B362F /* HomeCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = F84987DF1F07C629003B362F /* HomeCollectionViewCell.xib */; };
+		F84987E41F07D268003B362F /* HeaderCollectionReusableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84987E21F07D268003B362F /* HeaderCollectionReusableView.swift */; };
+		F84987E51F07D268003B362F /* HeaderCollectionReusableView.xib in Resources */ = {isa = PBXBuildFile; fileRef = F84987E31F07D268003B362F /* HeaderCollectionReusableView.xib */; };
 		F8CA9BD41EFC43EC00429C72 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8CA9BD31EFC43EC00429C72 /* AppDelegate.swift */; };
 		F8CA9BD61EFC43EC00429C72 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8CA9BD51EFC43EC00429C72 /* ViewController.swift */; };
 		F8CA9BD91EFC43EC00429C72 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F8CA9BD71EFC43EC00429C72 /* Main.storyboard */; };
@@ -34,6 +48,25 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F84987C01F07C175003B362F /* _DS_Store */ = {isa = PBXFileReference; lastKnownFileType = file; path = _DS_Store; sourceTree = "<group>"; };
+		F84987C21F07C175003B362F /* _DS_Store */ = {isa = PBXFileReference; lastKnownFileType = file; path = _DS_Store; sourceTree = "<group>"; };
+		F84987C31F07C175003B362F /* EGOCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EGOCache.h; sourceTree = "<group>"; };
+		F84987C41F07C175003B362F /* EGOCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EGOCache.m; sourceTree = "<group>"; };
+		F84987C61F07C175003B362F /* _DS_Store */ = {isa = PBXFileReference; lastKnownFileType = file; path = _DS_Store; sourceTree = "<group>"; };
+		F84987C81F07C175003B362F /* _DS_Store */ = {isa = PBXFileReference; lastKnownFileType = file; path = _DS_Store; sourceTree = "<group>"; };
+		F84987CA1F07C175003B362F /* _DS_Store */ = {isa = PBXFileReference; lastKnownFileType = file; path = _DS_Store; sourceTree = "<group>"; };
+		F84987CB1F07C175003B362F /* EGOImageLoadConnection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EGOImageLoadConnection.h; sourceTree = "<group>"; };
+		F84987CC1F07C175003B362F /* EGOImageLoadConnection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EGOImageLoadConnection.m; sourceTree = "<group>"; };
+		F84987CD1F07C175003B362F /* EGOImageLoader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EGOImageLoader.h; sourceTree = "<group>"; };
+		F84987CE1F07C175003B362F /* EGOImageLoader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EGOImageLoader.m; sourceTree = "<group>"; };
+		F84987D01F07C175003B362F /* _DS_Store */ = {isa = PBXFileReference; lastKnownFileType = file; path = _DS_Store; sourceTree = "<group>"; };
+		F84987D11F07C175003B362F /* EGOImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EGOImageView.h; sourceTree = "<group>"; };
+		F84987D21F07C175003B362F /* EGOImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EGOImageView.m; sourceTree = "<group>"; };
+		F84987DD1F07C288003B362F /* DemoApp-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "DemoApp-Bridging-Header.h"; sourceTree = "<group>"; };
+		F84987DE1F07C629003B362F /* HomeCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeCollectionViewCell.swift; sourceTree = "<group>"; };
+		F84987DF1F07C629003B362F /* HomeCollectionViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HomeCollectionViewCell.xib; sourceTree = "<group>"; };
+		F84987E21F07D268003B362F /* HeaderCollectionReusableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HeaderCollectionReusableView.swift; sourceTree = "<group>"; };
+		F84987E31F07D268003B362F /* HeaderCollectionReusableView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HeaderCollectionReusableView.xib; sourceTree = "<group>"; };
 		F8CA9BD01EFC43EC00429C72 /* DemoApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DemoApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8CA9BD31EFC43EC00429C72 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F8CA9BD51EFC43EC00429C72 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -74,6 +107,67 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		F84987BF1F07C175003B362F /* EGOImage */ = {
+			isa = PBXGroup;
+			children = (
+				F84987C01F07C175003B362F /* _DS_Store */,
+				F84987C11F07C175003B362F /* EGOCache */,
+				F84987C51F07C175003B362F /* EGOClasses */,
+				F84987C91F07C175003B362F /* EGOImageLoader */,
+				F84987CF1F07C175003B362F /* EGOImageView */,
+			);
+			path = EGOImage;
+			sourceTree = "<group>";
+		};
+		F84987C11F07C175003B362F /* EGOCache */ = {
+			isa = PBXGroup;
+			children = (
+				F84987C21F07C175003B362F /* _DS_Store */,
+				F84987C31F07C175003B362F /* EGOCache.h */,
+				F84987C41F07C175003B362F /* EGOCache.m */,
+			);
+			path = EGOCache;
+			sourceTree = "<group>";
+		};
+		F84987C51F07C175003B362F /* EGOClasses */ = {
+			isa = PBXGroup;
+			children = (
+				F84987C61F07C175003B362F /* _DS_Store */,
+				F84987C71F07C175003B362F /* Model */,
+			);
+			path = EGOClasses;
+			sourceTree = "<group>";
+		};
+		F84987C71F07C175003B362F /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				F84987C81F07C175003B362F /* _DS_Store */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		F84987C91F07C175003B362F /* EGOImageLoader */ = {
+			isa = PBXGroup;
+			children = (
+				F84987CA1F07C175003B362F /* _DS_Store */,
+				F84987CB1F07C175003B362F /* EGOImageLoadConnection.h */,
+				F84987CC1F07C175003B362F /* EGOImageLoadConnection.m */,
+				F84987CD1F07C175003B362F /* EGOImageLoader.h */,
+				F84987CE1F07C175003B362F /* EGOImageLoader.m */,
+			);
+			path = EGOImageLoader;
+			sourceTree = "<group>";
+		};
+		F84987CF1F07C175003B362F /* EGOImageView */ = {
+			isa = PBXGroup;
+			children = (
+				F84987D01F07C175003B362F /* _DS_Store */,
+				F84987D11F07C175003B362F /* EGOImageView.h */,
+				F84987D21F07C175003B362F /* EGOImageView.m */,
+			);
+			path = EGOImageView;
+			sourceTree = "<group>";
+		};
 		F8CA9BC71EFC43EC00429C72 = {
 			isa = PBXGroup;
 			children = (
@@ -97,12 +191,18 @@
 		F8CA9BD21EFC43EC00429C72 /* DemoApp */ = {
 			isa = PBXGroup;
 			children = (
+				F84987BF1F07C175003B362F /* EGOImage */,
 				F8CA9BD31EFC43EC00429C72 /* AppDelegate.swift */,
 				F8CA9BD51EFC43EC00429C72 /* ViewController.swift */,
+				F84987E21F07D268003B362F /* HeaderCollectionReusableView.swift */,
+				F84987E31F07D268003B362F /* HeaderCollectionReusableView.xib */,
+				F84987DE1F07C629003B362F /* HomeCollectionViewCell.swift */,
+				F84987DF1F07C629003B362F /* HomeCollectionViewCell.xib */,
 				F8CA9BD71EFC43EC00429C72 /* Main.storyboard */,
 				F8CA9BDA1EFC43EC00429C72 /* Assets.xcassets */,
 				F8CA9BDC1EFC43EC00429C72 /* LaunchScreen.storyboard */,
 				F8CA9BDF1EFC43EC00429C72 /* Info.plist */,
+				F84987DD1F07C288003B362F /* DemoApp-Bridging-Header.h */,
 			);
 			path = DemoApp;
 			sourceTree = "<group>";
@@ -233,8 +333,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				F8CA9BDE1EFC43EC00429C72 /* LaunchScreen.storyboard in Resources */,
+				F84987D41F07C175003B362F /* _DS_Store in Resources */,
 				F8CA9BDB1EFC43EC00429C72 /* Assets.xcassets in Resources */,
+				F84987D71F07C175003B362F /* _DS_Store in Resources */,
+				F84987D81F07C175003B362F /* _DS_Store in Resources */,
 				F8CA9BD91EFC43EC00429C72 /* Main.storyboard in Resources */,
+				F84987D31F07C175003B362F /* _DS_Store in Resources */,
+				F84987E51F07D268003B362F /* HeaderCollectionReusableView.xib in Resources */,
+				F84987E11F07C629003B362F /* HomeCollectionViewCell.xib in Resources */,
+				F84987D61F07C175003B362F /* _DS_Store in Resources */,
+				F84987DB1F07C175003B362F /* _DS_Store in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,8 +367,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F84987D51F07C175003B362F /* EGOCache.m in Sources */,
+				F84987E41F07D268003B362F /* HeaderCollectionReusableView.swift in Sources */,
 				F8CA9BD61EFC43EC00429C72 /* ViewController.swift in Sources */,
+				F84987DA1F07C175003B362F /* EGOImageLoader.m in Sources */,
+				F84987DC1F07C175003B362F /* EGOImageView.m in Sources */,
 				F8CA9BD41EFC43EC00429C72 /* AppDelegate.swift in Sources */,
+				F84987D91F07C175003B362F /* EGOImageLoadConnection.m in Sources */,
+				F84987E01F07C629003B362F /* HomeCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -416,6 +530,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = baba.DemoApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "DemoApp/DemoApp-Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -428,6 +543,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = baba.DemoApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "DemoApp/DemoApp-Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
@@ -505,6 +621,7 @@
 				F8CA9BFA1EFC43EC00429C72 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F8CA9BFB1EFC43EC00429C72 /* Build configuration list for PBXNativeTarget "DemoAppTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +630,7 @@
 				F8CA9BFD1EFC43EC00429C72 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F8CA9BFE1EFC43EC00429C72 /* Build configuration list for PBXNativeTarget "DemoAppUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +639,7 @@
 				F8CA9C001EFC43EC00429C72 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
